@@ -16,7 +16,7 @@ I'm a cybersecurity student passionate about diving deep into Artificial Intelli
 
 * **[Python Password Strength Checker](https://github.com/0xQryptic/python-password-checker)**: A command-line tool that assesses password strength based on multiple criteria (length, uppercase, lowercase, digits, special characters). Features include detailed checks and an overall strength score.
     * *This was my first completed Python project, focusing on functions and iterative development!*
-* **[Python File Organizer](https://github.com/0xQryptic/YOUR_FILE_ORGANIZER_REPO_NAME_HERE)** (Next Up!): A script designed to automatically sort files into categorized subfolders based on their extensions.
+* **[Python File Organizer](https://github.com/0xQryptic/python-file-organizer.git)**: A script designed to automatically sort files into categorized subfolders based on their extensions.
 
 ---
 
