@@ -6,25 +6,25 @@ I'm a cybersecurity student passionate about diving deep into Artificial Intelli
 
 ### 🚀 Currently Focusing On:
 
-* **Mastering Python:** Building a strong foundation through hands-on projects.
-* **Cybersecurity Studies:** Actively deepening my understanding of core security principles and pursuing industry knowledge.
-* **On-Device AI:** Exploring the capabilities and potential of efficient AI models like Google's Gemma family.
+* **Python for Data Visualization & Web Services:** Applying Python to handle structured data (like JSON), interact with external APIs for geocoding and routing, and create interactive web-based maps with libraries like `Folium`.
+* **Cybersecurity Fundamentals:** Actively deepening my understanding of core security and networking principles.
+* **On-Device AI:** Continuing to explore the capabilities and potential of efficient models like Google's Gemma family.
 
 ---
 
 ### 🛠️ My Projects:
 
-* **[Python Password Strength Checker](https://github.com/0xQryptic/python-password-checker)**: A command-line tool that assesses password strength based on multiple criteria (length, uppercase, lowercase, digits, special characters). Features include detailed checks and an overall strength score.
-    * *This was my first completed Python project, focusing on functions and iterative development!*
-* **[Python File Organizer](https://github.com/0xQryptic/python-file-organizer.git)**: A script designed to automatically sort files into categorized subfolders based on their extensions.
+* **[Interactive Service Map](https://github.com/0xQryptic/interactive-service-map)** (In Progress): A web-based map to visualize technician/customer locations and optimize service routes. This project is my current focus, exploring data visualization, geocoding, and routing APIs.
+* **[Python File Organizer](https://github.com/0xQryptic/python-file-organizer)**: A utility script to automatically sort files into categorized subfolders. A great exercise in file system operations using Python's `os` and `shutil` modules.
+* **[Python Password Strength Checker](https://github.com/0xQryptic/python-password-checker)**: A command-line tool that assesses password strength based on multiple criteria. My first completed Python project, focusing on functions and iterative development.
 
 ---
 
 ### 💡 Core Tech Interests:
 
 * **Cybersecurity:** Network Security, Application Security, and a future interest in Anti-Cheat development.
-* **Artificial Intelligence:** On-Device AI, Large Language Models, and practical AI applications.
-* **Software Development:** Building efficient, privacy-conscious tools and exploring game development concepts.
-* **Continuous Learning:** Always eager to tackle new programming challenges and technologies.
+* **Artificial Intelligence:** On-Device AI, LLMs, and practical AI-powered applications.
+* **Geospatial Data & Visualization:** Using mapping and location data to create insightful tools.
+* **Software Development:** Building efficient, privacy-conscious applications.
 
 ---
