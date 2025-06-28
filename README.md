@@ -12,14 +12,6 @@ I'm a cybersecurity student passionate about diving deep into Artificial Intelli
 
 ---
 
-### 🛠️ My Projects:
-
-* **[Interactive Service Map](https://github.com/0xQryptic/interactive-service-map)** (In Progress): A web-based map to visualize technician/customer locations and optimize service routes. This project is my current focus, exploring data visualization, geocoding, and routing APIs.
-* **[Python File Organizer](https://github.com/0xQryptic/python-file-organizer)**: A utility script to automatically sort files into categorized subfolders. A great exercise in file system operations using Python's `os` and `shutil` modules.
-* **[Python Password Strength Checker](https://github.com/0xQryptic/python-password-checker)**: A command-line tool that assesses password strength based on multiple criteria. My first completed Python project, focusing on functions and iterative development.
-
----
-
 ### 💡 Core Tech Interests:
 
 * **Cybersecurity:** Network Security, Application Security, and a future interest in Anti-Cheat development.
